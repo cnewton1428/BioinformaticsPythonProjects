@@ -1,0 +1,3 @@
+ATGCTTTACGTCTACTGTCGTATGCTTTACGTCTACTGACTGTCGTATGCTTACGTCTACTGTCG
+atgctttacgtctactgtcgtatgctttacgtctactgactgtcgtatgcttacgtctactgtcg
+atgctttacgt-tcgtatgctttacgtc---tatgcttacgt--cttacgt-----ctactgtcg
